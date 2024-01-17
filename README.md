@@ -38,7 +38,6 @@ Hey there! I'm **Youness Chaaibi**, a passionate self-taught developer and probl
 <div>
 <div style="width=100%;" align="center"> <h1 style="width:100%"> Codeforces </h1> <img style="display:block; width=100%;" align="center" src="https://github.com/ychaaibi/ychaaibi_cf/blob/main/output/light_card.svg" /> </div>
 <div style="width=100%;" align="center"> <img style="display:block; width=100%;" align="center" src="https://github.com/ychaaibi/ychaaibi_cf/blob/main/output/max_rating.svg" /> </div>
-</div>
 <br>
 <div style="width=100%;" align="center"> <h1 style="width:100%"> Leetcode </h1> <img style="display:block; width=100%;" align="center" src="https://leetcard.jacoblin.cool/ychaaibi?ext=heatmap" /> </div>
 
