@@ -33,7 +33,7 @@ Hey there! I'm **Youness Chaaibi**, a passionate self-taught developer and probl
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ychaaibi&show_icons=true&theme=radical)
+<div align="center" > <img src="https://github-readme-stats.vercel.app/api?username=ychaaibi&show_icons=true&theme=radical" > </div>
 
 <div>
 <div style="width=100%;" align="center"> <h1 style="width:100%"> Codeforces </h1> <img style="display:block; width=100%;" align="center" src="https://github.com/ychaaibi/ychaaibi_cf/blob/main/output/light_card.svg" /> </div>
