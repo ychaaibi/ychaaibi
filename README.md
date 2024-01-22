@@ -8,7 +8,7 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ychaaibi" alt="ychaaibi's 42 stats" /></a>
 </div><br><br>
 
-Hey there! I'm **Youness Chaaibi**, a passionate self-taught developer and problem solver. 🚀 I'm on an exciting journey of continuous learning and exploring the world of coding.
+Hey there! I'm **Youness Chaaibi**, a passionate self-taught developer and competitive programmer. 🚀 I'm on an exciting journey of continuous learning and exploring the world of coding.
 
 ## 🌱 About Me
 
