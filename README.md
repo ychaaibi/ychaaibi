@@ -51,5 +51,5 @@ Hey there! I'm **Youness Chaaibi**, a passionate self-taught developer and compe
 <p align='center'>
  <a href = "mailto:ychaaibi@student.1337.ma" > <img src="https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social" > </a> 
  <a href = "https://twitter.com/ChaaibiYouness" > <img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" > </a> 
- <a href = "https://www.linkedin.com/in/youness-chaaibi-2413901a9/" > <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" > </a> 
+ <a href = "https://www.linkedin.com/in/youness-chaaibi" > <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" > </a> 
 
