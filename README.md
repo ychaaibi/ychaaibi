@@ -1,5 +1,5 @@
 
-<h2 align="center"> 🚀 1337 Developer Student - Youness Chaaibi <br><br>
+<h2 align="center"> 🚀 1337 Software Engineer Student - Youness Chaaibi <br><br>
 
  <a href="https://1337.ma/" target="_blank" rel="noopener noreferrer">1337 Coding School</a></h2>
 
